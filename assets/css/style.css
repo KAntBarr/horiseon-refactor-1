@@ -20,6 +20,7 @@ body {
     font-size: 48px;
 }
 
+/* isolated to just .seo because the rest was not needed */
 .seo {
     color: #d9dcd6;
 }
@@ -61,6 +62,7 @@ a {
     margin-left: 20px;
 }
 
+/* consolidated these 3 */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -72,6 +74,9 @@ a {
     color: #ffffff;
 }
 
+/* consolidated these 3 
+the img within these classes 
+will have these attributes*/
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
@@ -88,6 +93,9 @@ a {
     margin-left: 25px;
 }
 
+/* consolidated these 3 
+the h2 within these classes 
+will have these attributes*/
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
@@ -110,6 +118,7 @@ p {
     background-color: #2589bd;
 }
 
+/* consolidated these 3 */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -117,6 +126,9 @@ p {
     color: #ffffff;
 }
 
+/* consolidated these 3 
+the h3 within these classes 
+will have these attributes*/
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -124,6 +136,9 @@ p {
     text-align: center;
 }
 
+/* consolidated these 3 
+the img within these classes 
+will have these attributes*/
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
