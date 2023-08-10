@@ -8,10 +8,11 @@ HTML Changes:
 - changed the rest of the divs to sections
 - added an id, "search-engine-optimization", to the corresponding section
 - changed the last h2 element into an h4
+- changed the benefits section to an aside element
 
 CSS Changes:
 - matched the corresponding element changes to the element selectors
-- consolidated multiple classes into a single selector
+- consolidated multiple classes into a single selector using commas
 - added comments to some css selectors
 
 ## Screenshot
